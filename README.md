@@ -1,2 +1,4 @@
 # Data-Science
-Data analytics &amp; building machine learning algorithm
+**Data analytics and building machine learning algorithm**
+- Sequence models
+- CNN models
